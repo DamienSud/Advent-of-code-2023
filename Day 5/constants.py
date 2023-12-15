@@ -1,3 +1,37 @@
+almanac_entryTEST = """seeds: 79 14 55 13
+
+seed-to-soil map:
+50 98 2
+52 50 48
+
+soil-to-fertilizer map:
+0 15 37
+37 52 2
+39 0 15
+
+fertilizer-to-water map:
+49 53 8
+0 11 42
+42 0 7
+57 7 4
+
+water-to-light map:
+88 18 7
+18 25 70
+
+light-to-temperature map:
+45 77 23
+81 45 19
+68 64 13
+
+temperature-to-humidity map:
+0 69 1
+1 0 69
+
+humidity-to-location map:
+60 56 37
+56 93 4"""
+
 almanac_entry = """seeds: 1972667147 405592018 1450194064 27782252 348350443 61862174 3911195009 181169206 626861593 138786487 2886966111 275299008 825403564 478003391 514585599 6102091 2526020300 15491453 3211013652 546191739
 
 seed-to-soil map:
